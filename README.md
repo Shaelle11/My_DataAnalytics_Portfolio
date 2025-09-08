@@ -1,9 +1,8 @@
-# 👋 Hi, I'm [Nanji Emmanuella Lakan]
+# 👋 Hi, I'm Nanji Emmanuella Lakan
 
 Welcome to my **Data Analytics Portfolio** 🚀  
 This page showcases my live projects, case studies, and learning journey. 
 
----
 
 ## 📊 Featured Projects
 
@@ -33,7 +32,6 @@ This page showcases my live projects, case studies, and learning journey.
 - **Highlights:** Built a model to detect phishing attempts embedded in QR codes.  
 - **Repo:** [View Code](https://github.com/yourusername/quishing-detection)
 
----
 
 ## 🔗 Quick Links
 - 📂 [ORCID](https://orcid.org/0009-0005-5699-5291)  
