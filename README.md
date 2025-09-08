@@ -1,7 +1,7 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [Nanji Emmanuella Lakan]
 
 Welcome to my **Data Analytics Portfolio** 🚀  
-This page showcases my live projects, case studies, and learning journey.  
+This page showcases my live projects, case studies, and learning journey. 
 
 ---
 
@@ -36,20 +36,19 @@ This page showcases my live projects, case studies, and learning journey.
 ---
 
 ## 🔗 Quick Links
-- 📂 [All Repositories](https://github.com/yourusername?tab=repositories)  
-- 📝 [Resume](https://your-link-to-resume.com)  
+- 📂 [ORCID](https://orcid.org/0009-0005-5699-5291)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/yourusername/)  
 - 🐦 [Twitter](https://twitter.com/yourusername)  
 
 ---
 
-## ⚡ About Me
+##  ⭐️About Me
 I’m a **Computer Science Graduate & Data Analytics Enthusiast** with experience in:  
-- ✅ Data Cleaning & Feature Engineering  
-- ✅ Machine Learning & Explainable AI  
-- ✅ Dashboard Development (Power BI / Tableau / Excel)  
-- ✅ Research in Cybersecurity & AI  
+- Data Cleaning & Feature Engineering  
+- Machine Learning & Explainable AI  
+- Dashboard Development (Power BI / Tableau / Excel)  
+- Research in Machine Learning 
 
 ---
 
-⭐️ *If you like my work, consider giving a star to my projects!* ⭐️
+⭐️ *If you like my work, consider Hiruing me and giving me a star to my projects!* ⭐️
