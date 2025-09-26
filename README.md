@@ -6,10 +6,10 @@ This page showcases my live projects, case studies, and learning journey.
 
 ## Featured Projects
 
-### 1. [Retail Sales Dashboard](https://your-live-link-here.com)
+### 1. [Retail Sales Dashboard](https://shaelle11.github.io/Retail_Sales_Analysis/)
 - **Highlights:** This project demonstrates an **end-to-end data analytics pipeline** using **SQL, Excel, and Power BI**.  
 We analyze Walmart’s retail sales dataset to uncover insights into sales trends, seasonality, and the impact of holidays.  
-- **Repo:** [View Code](https://shaelle11.github.io/Retail_Sales_Analysis/)
+- **Repo:** [View Code](https://github.com/Shaelle11/Retail_Sales_Analysis)
 
 
 
